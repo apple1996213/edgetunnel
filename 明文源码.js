@@ -2,8 +2,8 @@
 import { connect } from 'cloudflare:sockets';
 
 let userID = '7c73076c-dfd5-4e86-8d71-c154823942de';
-let proxyIP = 'owo.o00o.ooo';
-//let sub = '';
+let proxyIP = '';
+//let sub = 'owo.o00o.ooo';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
 let subProtocol = 'https';
